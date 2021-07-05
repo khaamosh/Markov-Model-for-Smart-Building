@@ -1,5 +1,3 @@
-# COMP9418 ADVANCED MACHINE LEARNING ASSIGNMENT 02 YEAR: 2020 TERM: 03
-
 # AIM
 
 - Write a program that plays the part of a "smart building".
@@ -179,6 +177,6 @@ actions_dict = {'lights1': 'off', 'lights2': 'off', 'lights3': 'off',
 
 # RESULTS
 
-# Assignment Score
+#  Score
 ## Cost: 66,453.66
 ## Time: 116
